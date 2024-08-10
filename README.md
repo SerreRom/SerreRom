@@ -2,6 +2,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-RomainSerre-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/romainserre/)](https://www.linkedin.com/in/romainserre/) [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCJi3U21Yd5XFPcYD6nGEiJQ?style=flat-square&label=Youtube)](https://www.youtube.com/@nextgendatacenter9557)
 
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
 I'm the co-founder and CTO of PulsivIT. I work mainly on Microsoft Azure and I love make deployments by using GitHub and Terraform. I'm also a Micosoft Most Valuable Professional (MVP) for almost 10 years now (I started in Hyper-V category and now I'm in Cloud & Hybrid Solution). I like also to work on security espacially on Microsoft Entra.
 
 - 📫 You have this kind of project ? feel free to contact me via [email](mailto:romain@pulsivit.fr)
@@ -28,7 +30,7 @@ I'm the co-founder and CTO of PulsivIT. I work mainly on Microsoft Azure and I l
 
 ## Tools
 
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
+
 
 
 <!--
