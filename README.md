@@ -8,6 +8,9 @@ I'm the co-founder and CTO of PulsivIT. I work mainly on Microsoft Azure and I l
 
 ## Certifications
 
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 ## Tools
 
 
