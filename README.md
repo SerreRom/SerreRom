@@ -10,7 +10,7 @@ I'm the co-founder and CTO of PulsivIT. I work mainly on Microsoft Azure and I l
 
 ## Awards
 
-![MVP](https://github.com/SerreRom/SerreRom/blob/main/MVP_Logo_Horizontal_Preferred_Cyan300_CMYK_300ppi.png?raw=true)
+![MVP](https://github.com/SerreRom/SerreRom/blob/main/MVP_Logo_Horizontal_Preferred_Cyan300_CMYK_300ppi.png?raw=true){width=250}
 
 ## Certifications
 
