@@ -8,6 +8,10 @@ I'm the co-founder and CTO of PulsivIT. I work mainly on Microsoft Azure and I l
 
 - 📫 You have this kind of project ? feel free to contact me via [email](mailto:romain@pulsivit.fr)
 
+## Awards
+
+![MVP](https://github.com/SerreRom/SerreRom/blob/main/MVP_Logo_Horizontal_Preferred_Cyan300_CMYK_300ppi.png?raw=true)
+
 ## Certifications
 
 <!--START_SECTION:badges-->
