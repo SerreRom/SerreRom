@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-RomainSerre-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/romainserre/)](https://www.linkedin.com/in/romainserre/) [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCJi3U21Yd5XFPcYD6nGEiJQ?style=flat-square&label=Youtube)](https://www.youtube.com/@nextgendatacenter9557)
 
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
 I'm the co-founder and CTO of PulsivIT. I work mainly on Microsoft Azure and I love make deployments by using GitHub and Terraform. I'm also a Micosoft Most Valuable Professional (MVP) for almost 10 years now (I started in Hyper-V category and now I'm in Cloud & Hybrid Solution). I like also to work on security espacially on Microsoft Entra.
 
@@ -29,6 +29,8 @@ I'm the co-founder and CTO of PulsivIT. I work mainly on Microsoft Azure and I l
 <!--END_SECTION:badges-->
 
 ## Tools
+
+![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) ![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) ![Ubiquiti](https://img.shields.io/badge/ubiquiti-%230559C9.svg?style=for-the-badge&logo=ubiquiti&logoColor=white)
 
 
 
