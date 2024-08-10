@@ -4,7 +4,7 @@
 
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
-I'm the co-founder and CTO of PulsivIT. I work mainly on Microsoft Azure and I love make deployments by using GitHub and Terraform. I'm also a Micosoft Most Valuable Professional (MVP) for almost 10 years now (I started in Hyper-V category and now I'm in Cloud & Hybrid Solution). I like also to work on security espacially on Microsoft Entra.
+I'm the co-founder and CTO of PulsivIT. I work mainly on Microsoft Azure and I love making deployments by using GitHub and Terraform. I'm also a Micosoft Most Valuable Professional (MVP) for almost 10 years now (I started in Hyper-V category and now I'm in Cloud & Hybrid Solution). I like also to work on security espacially on Microsoft Entra.
 
 - 📫 You have this kind of project ? feel free to contact me via [email](mailto:romain@pulsivit.fr)
 
