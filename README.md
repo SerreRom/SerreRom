@@ -1,8 +1,6 @@
 # Hey, I'm Romain 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-RomainSerre-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/romainserre/)](https://www.linkedin.com/in/romainserre/)
-
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCJi3U21Yd5XFPcYD6nGEiJQ?style=for-the-badge)
+[![Linkedin Badge](https://img.shields.io/badge/-RomainSerre-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/romainserre/)](https://www.linkedin.com/in/romainserre/) ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCJi3U21Yd5XFPcYD6nGEiJQ?style=for-the-badge)
 
 
 <!--
