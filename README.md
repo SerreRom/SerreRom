@@ -36,6 +36,15 @@ I'm the co-founder and CTO of PulsivIT. I work mainly on Microsoft Azure and I l
 
 ![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) ![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) ![Ubiquiti](https://img.shields.io/badge/ubiquiti-%230559C9.svg?style=for-the-badge&logo=ubiquiti&logoColor=white)
 
+## 📈 My GitHub stats
+
+<div class="badges-githubstats">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=serrerom&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="serrerom's Stats" height="165">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=serrerom&theme=tokyonight&hide_border=true" alt="serrerom's Streak" height="165">
+  </p>
+</div>
+
 
 
 
