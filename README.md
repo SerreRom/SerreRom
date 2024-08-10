@@ -1,6 +1,7 @@
 # Hey, I'm Romain 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-RomainSerre-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/romainserre/)](https://www.linkedin.com/in/romainserre/) ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCJi3U21Yd5XFPcYD6nGEiJQ?style=flat-square&label=Youtube&link=https%3A%2F%2Fwww.youtube.com%2F%40nextgendatacenter9557)
+[![Linkedin Badge](https://img.shields.io/badge/-RomainSerre-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/romainserre/)](https://www.linkedin.com/in/romainserre/) [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCJi3U21Yd5XFPcYD6nGEiJQ?style=flat-square&label=Youtube)](https://www.youtube.com/@nextgendatacenter9557)
+
 
 
 
