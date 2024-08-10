@@ -4,7 +4,11 @@
 
 I'm the co-founder and CTO of PulsivIT. I work mainly on Microsoft Azure and I love make deployments by using GitHub and Terraform. I'm also a Micosoft Most Valuable Professional (MVP) for almost 10 years now (I started in Hyper-V category and now I'm in Cloud & Hybrid Solution). I like also to work on security espacially on Microsoft Entra.
 
-- 📫 You have this kinf od project ? feel free to contact me via [email](mailto:romain@pulsivit.fr)
+- 📫 You have this kind of project ? feel free to contact me via [email](mailto:romain@pulsivit.fr)
+
+## Certifications
+
+## Tools
 
 
 <!--
