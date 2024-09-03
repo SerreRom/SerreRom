@@ -28,7 +28,6 @@ I'm the co-founder and CTO of PulsivIT. I work mainly on Microsoft Azure and I l
 [![Microsoft Certified: Azure Security Engineer Associate](https://images.credly.com/size/110x110/images/1ad16b6f-2c71-4a2e-ae74-ec69c4766039/azure-security-engineer-associate600x600.png)](http://www.credly.com/badges/7836dbbd-9095-477a-8a11-00beebb0b068 "Microsoft Certified: Azure Security Engineer Associate")
 [![Microsoft 365 Certified: Security Administrator Associate*](https://images.credly.com/size/110x110/images/e1b12077-7be7-493a-8b7a-afa6e58182ce/microsoft365-security-administrator-associate-600x600.png)](http://www.credly.com/badges/c71ded78-3272-430a-865e-69170fc6ce3d "Microsoft 365 Certified: Security Administrator Associate*")
 [![Exam 409: Server Virtualization with Windows Server Hyper-V and System Center](https://images.credly.com/size/110x110/images/2b592380-92f6-47e8-b198-9cb252c8ab87/Exam-Server-Virtualization-with-Windows.png)](http://www.credly.com/badges/b9696e4a-c729-45b6-8709-5efd83685362 "Exam 409: Server Virtualization with Windows Server Hyper-V and System Center")
-[![VMware Certified Associate 6 – Data Center Virtualization](https://images.credly.com/size/110x110/images/df2e10cc-4cd3-4220-88dd-d882892d2a2f/vmware_Cert_Asso_DCV6.png)](http://www.credly.com/badges/d8afadf9-2090-476d-b51e-f098f58c6b6d "VMware Certified Associate 6 – Data Center Virtualization")
 
 <!--END_SECTION:badges-->
 
